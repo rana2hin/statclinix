@@ -1,0 +1,27 @@
+Package: statclinix
+Type: Package
+Title: Streamlined Statistical Summaries and Visualizations
+Version: 0.1.0
+Authors@R: person("Tuhin", "Rana", 
+                  email = "rana2hin@gmail.com", 
+                  role = c("aut", "cre"),
+                  comment = c(ORCID = "0009-0009-6401-8326"))
+Description: A collection of user-friendly functions to generate 
+    publication-ready tables and plots, primarily for clinical 
+    research. Simplifies the creation of summary tables, correlation 
+    plots, and various customized charts using 'ggplot2' and 'gtsummary'.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    ggplot2,
+    ggpubr,
+    ggrepel,
+    ggtext,
+    glue,
+    gt,
+    gtsummary,
+    showtext,
+    sysfonts
+RoxygenNote: 7.3.2
