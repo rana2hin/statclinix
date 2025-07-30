@@ -25,7 +25,8 @@
     "✨ Your toolkit for sweet and simple data visualization.      \n",
     "📊 Type `?` and the package name for an overview of functions.\n",
     "--------------------------------------------------------------\n",
-    " >> Custom 'Times New Roman' font ", if (font_files_exist) "loaded successfully." else "not found in package files."
+    ">> Custom 'Times New Roman' font ", if (font_files_exist) "loaded successfully.\n" else "not found in package files.\n",
+    ">> Created with ❤️ by rana2hin"
   )
 
   packageStartupMessage(msg)
