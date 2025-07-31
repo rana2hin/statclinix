@@ -28,3 +28,7 @@ I do not update the readme file but I do update the codes!
 <a href="https://github.com/rana2hin/statclinix/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=rana2hin/statclinix" />
 </a>
+
+## Repo Activity
+
+![Repo Activity](https://repobeats.axiom.co/api/embed/94e61d46859061470cdf238cbad04e80bcc57300.svg "Repobeats analytics image")
