@@ -1,4 +1,4 @@
-# statclinix 🍬
+# statclinix 🍬   ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frana2hin%2Fstatclinix%2F&label=Visitor&icon=suit-heart&color=%230aa2c0&message=&style=for-the-badge&tz=UTC)
 
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -11,7 +11,7 @@ I do not update the readme file but I do update the codes!
 
 ---
 
-## Repo Activity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frana2hin%2Fstatclinix%2F&label=Visitor&icon=suit-heart&color=%230aa2c0&message=&style=for-the-badge&tz=UTC)
+## Repo Activity
 
 ![Repo Activity](https://repobeats.axiom.co/api/embed/784af8d67ab411710331a0eeee73d61b93ac2e86.svg "Repobeats analytics image")
 
