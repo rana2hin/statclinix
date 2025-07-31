@@ -31,4 +31,4 @@ I do not update the readme file but I do update the codes!
 
 ## Repo Activity
 
-![Repo Activity](https://repobeats.axiom.co/api/embed/94e61d46859061470cdf238cbad04e80bcc57300.svg "Repobeats analytics image")
+![Repo Activity](https://repobeats.axiom.co/api/embed/784af8d67ab411710331a0eeee73d61b93ac2e86.svg "Repobeats analytics image")
