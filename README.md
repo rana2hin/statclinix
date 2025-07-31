@@ -11,7 +11,7 @@ I do not update the readme file but I do update the codes!
 
 ---
 
-## Repo Activity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frana2hin%2Fstatclinix%2F&label=Visitor&icon=suit-heart&color=%230aa2c0&message=&style=for-the-badge&tz=UTC)
+## Repo Activity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frana2hin%2Fstatclinix%2F&label=Visitor&icon=suit-heart&color=%230aa2c0&message=&style=for-the-badge&tz=UTC)
 
 ![Repo Activity](https://repobeats.axiom.co/api/embed/784af8d67ab411710331a0eeee73d61b93ac2e86.svg "Repobeats analytics image")
 
