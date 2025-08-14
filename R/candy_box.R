@@ -79,7 +79,10 @@ candy_box <- function(data, x_var, y_var,
 
   # 5. Conditionally add the total p-value
   if (show_total_p) {
-    p <- p + ggpubr::stat_compare_means(label.y = total_p_y_pos)
+    p <- p + ggpubr::stat_compare_means(
+      label.y = total_p_y_pos,
+      aes(label = sprintf("P-value = %0.4f", after_stat(p)))
+    )
   }
 
   # 6. Add fixed theme elements and custom labels
